@@ -1,2 +1,18 @@
 # The-Living-Chapel-Project
-How many catholics are there in the world? 
+
+
+This is an article I wrote for an internship application at The Economist. Unfortunately, I was not selected but still I am pretty happy with the work I have done and would love to share the article I wrote. As part of the exercise, I also created a map showing how many Catholics are there in the world and where they are.
+
+
+
+The Vatican, a hidden ally in the fight to climate change
+ROME, ITALY
+
+The music is the first hint, a soothing melody of bells and the sound of water. A warm welcome at the gates of the Botanical Garden of Rome. “We wanted it to be the right balance between nature, architecture and music” but most importantly “the symbol of a movement for the planting of new trees”. Consuelo Fabriani, Project Manager of the Living Chapel, walks us around the installation while she explains its genesis.
+The idea dates to 2015, as Julian Revie, Founder and Creative Director of the Living Chapel, read Pope Francis’ encyclical Laudato Sì for the first time. Revie conceived the Living Chapel as a contribution to the vision depicted in the encyclical. It became an artistic installation, representing a sacred space made of 3,250 living plants grown on a framework of discarded oil drums. The sapling trees, nurtured in the Chapel, are meant for forestation activities.
+Behind the religious curtain, the environmental action of Pope Francis has progressed over the years. His 2015 encyclical “Laudato Sì: On Care for Our Common Home”, the first-ever papal encyclical uniquely dedicated to the environment, motivated Catholics around the world to act against climate change. Nowadays, the Global Catholic Climate Movement (GCCM) gathers over 650 organizations around the world and several are the communities that decided to live up to the encyclical’s precepts – 60 only in Italy. Projects such as the Living Chapel itself represent the concrete outcome of the encyclical.
+This year marked the fifth anniversary of the Laudato Sì publication. Celebrations have begun online on 24 May 2020 and the Laudato Sì Anniversary Year will be the occasion to lay foundations for future action. Part of the program is the launch of the Laudato Sì Action Platform, a 7-year journey towards integral ecology involving families, dioceses, schools, universities, hospitals, businesses and religious orders.
+For years politicians, activists and international organizations have failed motivating people to act against climate change. They tried relying on a sense of urgency to instill motivation. However, the results obtained by the encyclical show that appealing to the intrinsic values of a receptive audience might prove a more powerful trigger.
+The encyclical Laudato Sì directly spoke to approximately one sixth of the world’s population – the Catholic population, see the map – although the goal of Pope Francis was to address its entirety.
+In these terms, even laic international organizations have understood the potential of the Vatican as an ally in the fight against climate change. The Living Chapel itself found support from FAO, World Bank and the United Nations. The latter also figured among the main partners for the Laudato Sì Week, the opening event of the encyclical anniversary’s celebrations. Numbers confirmed the validity of this intuition. Throughout the Laudato Sì Week the personal social media accounts of Pope Francis generated more than 1 million interactions. The festival included webinars with 1,600 participants and came with the announcement of 42 faith institutions from 14 countries divesting from fossil fuels. 
+The Laudato Sì Action Platform itself in its first year will see the participation of 500 dioceses or schools and this number is destined to grow exponentially over the coming decade. As the fight against climate change requires engagement from everyone, cooperation should not only go beyond nationality but also beyond faith.
